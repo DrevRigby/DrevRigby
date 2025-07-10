@@ -3,7 +3,11 @@ layout: cv
 title: Resume Drevin Rigby
 ---
 
-Student NEW 
+Bachelor of Science in Accounting Brigham Young University - Idaho
+•	GPA 3.96 
+•	Data Science Certificate
+•	Treasurer - Student Accounting Society
+
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,75 +17,43 @@ Student NEW
 
 ## Currently
 
-Standing on the shoulders of giants
+Rudd and Company	Idaho Falls, Idaho
+•	Prepared 1040, 1065, and 1120-S tax returns for individuals, partnerships, and s-corporations, ensuring accuracy and compliance with federal and state tax laws.
+•	Analyzed financial statements, performed reconciliations, and recorded journal entries to identify discrepancies, improve financial accuracy, and support tax return preparation.
+•	Assisted senior tax professionals in developing customized tax strategies to optimize after-tax income.
 
-### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Specialized and Experienced in
+
+•	Tax software, data analytics, and automation, with proficiency in Excel, Excel VBA, SQL, Lacerte, Tax Caddy, XCM/CCH Axcess Workflow, SurePrep, IDEA, Python, VS Code, and Power BI.
+•	Certifications: Microsoft Excel Educator Certificate, Bloomberg Market Concepts Certificate
+•	Languages: Fluent in speaking, reading, and writing in Spanish.
+
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Accounting Theory
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Bachelor of Science in Accounting Brigham Young University - Idaho
 
 
+## Leadership
 
-## Awards
+Treasurer
+Student Accounting Society - BYU-Idaho	                                        April – August 2025
+Rexburg, Idaho
+•	Designed and launched a strategic recruiting initiative that more than doubled semester membership revenue—from $850 to nearly $1,750.
+•	Led advertising efforts that boosted weekly meeting attendance by 37%, significantly enhancing member engagement and program visibility.
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+Full-Time Volunteer	August 2020 - August 2022
+	
+The Church of Jesus Christ of Latter-day Saints	Quetzaltenango, Guatemala
+•	Directed 50+ young adults, conducted in-depth team training, planned activities, and followed up weekly and monthly on work as a pod leader for seven months.
+•	Led training with a goal of improving teaching techniques, interpersonal skills, overall effectiveness as well as encouraged strong morale and optimism. On average 4-5 mock scenarios were executed weekly to hone and improve interpersonal skills and teaching effectiveness.
 
 
 <!-- ### Footer
