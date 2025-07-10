@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Resume Drevin Rigby
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+Student NEW 
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
